@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Elio Soto.<br>
-        <br>I am Instrumentalist technology an apprentice programmer, totally self-taught, motivated and on the path to becoming a Software developer.
+        <br>I am Instrumentalist technology an programmer, totally self-taught, motivated and on the path to becoming a Software developer.
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/barbatossifiruz">
