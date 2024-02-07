@@ -1,4 +1,8 @@
-<h1 align="center">Hi, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"/></h1>
+<h1 align="center">Hi, guys! 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"/>
+<img src="./public/Logo-ES.gif" width="30px" alt="Logo Elio Soto"/>
+
+</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
